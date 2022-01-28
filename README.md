@@ -24,3 +24,4 @@ of each step was highly dependent on the working of the previous steps:
 6. Development
 
 
+![WhatsApp Image 2022-01-22 at 12 46 31 PM](https://user-images.githubusercontent.com/68474231/151498821-1354b235-2bb3-49a8-b865-f7d684b07314.jpeg)
