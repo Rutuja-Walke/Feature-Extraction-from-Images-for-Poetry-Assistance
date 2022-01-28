@@ -14,3 +14,13 @@ obtain computer generated poetic hints.
 
 
 
+The Research Part was broken down into a sequence of steps as described below. The success
+of each step was highly dependent on the working of the previous steps:
+1. Image Classification
+2. Image Captioning
+3. Tagging
+4. Emotion Extraction
+5. Poetry Generation
+6. Development
+
+
